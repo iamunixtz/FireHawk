@@ -23,7 +23,8 @@ cd FireHawk
 pip3 install -r requirements.txt
    ```
 ### POc
-[Firehawk.jpg]
+![Firehawk](https://github.com/iamunixtz/FireHawk/raw/main/Firehawk.jpg)
+
 ## Usage
 - `-u URL, --url URL`: Specify the target Firebase URL.
 - `-j JSON_FILE, --json JSON_FILE`: Provide a custom JSON file for exploitation.
